@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:42.935852
+#+DATE: 2015-09-28 22:56:43.822006
 #+TITLE: 普賢菩薩行願讚
 #+PROPERTY: CBETA_ID T10n0297
 #+PROPERTY: ID KR6e0046
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 297
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6e0046_T_001-0880a> 
 #+PROPERTY: JUAN 1
 ¶
-No.297[No.296;cf.293(Fasc.40)]¶
-
- 《普賢菩薩行願讚》¶
+No. 297 [No. 296; cf. 293(Fasc. 40)]¶
+《普賢菩薩行願讚》¶
 ¶
 開府儀同三司特進試鴻臚卿¶
 肅國公食邑三千戶賜紫贈司空¶
@@ -276,10 +275,7 @@ No.297[No.296;cf.293(Fasc.40)]¶
 」¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: 八大菩薩讚(出《八大菩薩曼茶羅經》末)
-:END:
-¶
+「* 八大菩薩讚(出《八大菩薩曼茶羅經》末)¶
 　圓寂宮城門，
 　能摧戶扇者，¶
 　諸佛法受用，
