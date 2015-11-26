@@ -1,12 +1,15 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:56:42.914083
-#+TITLE: 普賢菩薩行願讚
-#+PROPERTY: CBETA_ID T10n0297
-#+PROPERTY: ID KR6e0046
-#+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 297
-#+PROPERTY: VOL 10
-#+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+TITLE: 普賢菩薩行願讚 / CBETA
+#+DATE: 2015-11-26 14:12:40.255615
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         T|【大】     |
+ |      T@LI|【大→麗】   |
+ |    T@MING|【大→明】   |
+ |   T@QISHA|【大→磧砂】  |
+ |    T@SONG|【大→宋】   |
+ |    T@YUAN|【大→元】   |
+ |       TKD|【高麗藏・東國影印版】|
 
-<pb:KR6e0046_T_000-0880a>¶
-
+* 目次
+* 卷
+** [[file:KR6e0046_001.txt][普賢菩薩行願讚 1]]
