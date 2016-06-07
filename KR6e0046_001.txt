@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:42.935852
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:45
 #+TITLE: 普賢菩薩行願讚
 #+PROPERTY: CBETA_ID T10n0297
 #+PROPERTY: ID KR6e0046
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 297
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0046_T_001-0880a> 
 #+PROPERTY: JUAN 1
 ¶
-No.297[No.296;cf.293(Fasc.40)]¶
-
- 《普賢菩薩行願讚》¶
+No. 297 [No. 296; cf. 293(Fasc. 40)]¶
+《普賢菩薩行願讚》¶
 ¶
 開府儀同三司特進試鴻臚卿¶
 肅國公食邑三千戶賜紫贈司空¶
@@ -271,15 +270,12 @@ No.297[No.296;cf.293(Fasc.40)]¶
 　我獲得此普賢行，
 　殊勝無量福德聚，¶
 　所有群生溺惡習，
-　皆往無量光佛宮。
+　皆往無量光佛宮。」
 #+END_VERSE
-」¶
+¶
 
 #+BEGIN_VERSE
-「:PROPERTIES:
-:head: 八大菩薩讚(出《八大菩薩曼茶羅經》末)
-:END:
-¶
+「* 八大菩薩讚(出《八大菩薩曼茶羅經》末)¶
 　圓寂宮城門，
 　能摧戶扇者，¶
 　諸佛法受用，
@@ -320,9 +316,9 @@ No.297[No.296;cf.293(Fasc.40)]¶
 　此真善逝子，
 　讚揚所獲福，¶
 　以此諸有情，
-　如彼成讚器。
+　如彼成讚器。」
 #+END_VERSE
-」¶
+¶
 《普賢菩薩行願讚》¶
 
 速疾滿普賢行願陀羅尼曰：¶
